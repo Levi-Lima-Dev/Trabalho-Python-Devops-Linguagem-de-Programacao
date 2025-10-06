@@ -1,10 +1,3 @@
-Excelente! Um bom arquivo README.md é essencial para qualquer projeto. Ele serve como o cartão de visitas do seu sistema de gestão de notas, explicando o que ele faz e como funciona.
-
-
-
-Aqui está um modelo de README.md formatado em Markdown, pronto para você copiar e usar.
-
-
 
 📚 Sistema Simples de Gestão de Notas (Python)
 
